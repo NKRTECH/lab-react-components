@@ -1,5 +1,5 @@
 import './App.css';
-import lake from "./image/lake.JPG";
+import lake from "./image/lake.jpg";
 import GallaryFooter from './components/GallaryFooter';
 import Navbar from './components/Header';
 import Body from './components/Body';
